@@ -1,5 +1,5 @@
 # Json-based-inventory-management-system-using-pyhon
-This is inventory management system project developed using python and json libray.
+This is inventory management system project developed using python and json library.
  I developed this project in period of one month internship at ETG
  
  ---About files----
