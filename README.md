@@ -1,14 +1,14 @@
 # Json-based-inventory-management-system-using-pyhon
 This is inventory management system project developed using python and json library.
  I developed this project in period of one month internship at ETG.
-# About files
+## About files
       This project have 4 files namely
- 1.product.ipynb
- 2.purchase.ipynb
- 3.record
- 4.sells.json
+ 1. product.ipynb
+ 2. purchase.ipynb
+ 3. record
+ 4. sells.json
  
- 1)product.ipynb
+ 1. product.ipynb
      - This is python jupyter notebook file
      - Using this file admin can add,edit or delete products in inventory
   2)pur
