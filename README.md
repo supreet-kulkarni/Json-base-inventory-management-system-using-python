@@ -2,7 +2,7 @@
 This is inventory management system project developed using python and json library.
  I developed this project in period of one month internship at ETG.
 ## About files
-      This project have 4 files namely
+ This project have 4 files namely
  1. product.ipynb
  2. purchase.ipynb
  3. record
