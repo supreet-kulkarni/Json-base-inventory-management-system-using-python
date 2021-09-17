@@ -9,7 +9,7 @@ This is inventory management system project developed using python and json libr
  4. sells.json
  
 **product.ipynb:**
-     *This is python jupyter notebook file
+* This is python jupyter notebook file
      *Using this file admin can add,edit or delete products in inventory
 **purchase.ipynb:**
      *This is python jupyter notebook file
