@@ -10,23 +10,23 @@ This is inventory management system project developed using python and json libr
  
 **product.ipynb:**
 * This is python jupyter notebook file
-     *Using this file admin can add,edit or delete products in inventory
+* Using this file admin can add,edit or delete products in inventory
 **purchase.ipynb:**
-     *This is python jupyter notebook file
-     *Using this file customers can purchase products from the inventory
-     *At the end order bill will be generated
+* This is python jupyter notebook file
+* Using this file customers can purchase products from the inventory
+* At the end order bill will be generated
 **record.json:**
-     *This is json filee
-     *It stores the products information present in the inventory
+* This is json filee
+* It stores the products information present in the inventory
 **sells.json:**
-     *This is json filee
-     *It stores the information about transation history
+* This is json filee
+* It stores the information about transation history
 
 ## Key features
-    - Admin can perform crud operations on inventory products
-    - customers can purchase n number of products
-    - Bill generation
-    - Storing transation history information in separate file
+* Admin can perform crud operations on inventory products
+* customers can purchase n number of products
+* Bill generation
+* Storing transation history information in separate file
 
 ## Contact information
 Linked in:https://www.linkedin.com/in/supreet-kulkarni-b7579b202
